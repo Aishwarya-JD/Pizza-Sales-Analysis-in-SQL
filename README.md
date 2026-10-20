@@ -1,9 +1,8 @@
 <div align="center">
 
-🍕 PizzaHut Sales Analysis Using SQL
+**🍕 PizzaHut Sales Analysis Using SQL**
 
-Turning transactional pizza sales data into business insights
-
+**Turning transactional pizza sales data into business insights**
 <p>
   <img src="https://img.shields.io/badge/SQL-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL and MySQL">
   <img src="https://img.shields.io/badge/Domain-Sales%20Analytics-E85D04?style=for-the-badge" alt="Sales Analytics">
@@ -18,11 +17,7 @@ Turning transactional pizza sales data into business insights
 </p>
 
 <p>
-  <a href="pizzahut_sales_analysis.sql"><strong>⬇️ View SQL Queries</strong></a>
-  &nbsp; • &nbsp;
-  <a href="PizzaHut_Sales_Analysis_SQL.pdf"><strong>📄 View Project PDF</strong></a>
-</p>
-
+  
 </div>
 
 **📌 Project Overview:**
